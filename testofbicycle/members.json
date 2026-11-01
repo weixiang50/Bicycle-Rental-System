@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "abel",
+    "password": "12",
+    "phone": "1",
+    "totalRentals": 10,
+    "points": 84
+  },
+  {
+    "id": 2,
+    "name": "xiang",
+    "password": "1234",
+    "phone": "0123456789",
+    "totalRentals": 10,
+    "points": 0
+  }
+]
